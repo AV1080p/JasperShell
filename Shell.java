@@ -1,4 +1,4 @@
-package foxglove.shell;
+package JasperReports.shell;
 import java.io.*;
 import java.net.*;
 import java.io.InputStream;
